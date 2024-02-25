@@ -1,7 +1,7 @@
 ![traz_logo](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/1981bc02-66ac-41dd-8a82-ea329bdfa5c3)
 
-## Team Name: LDI HACKOS
-## Team Members:
+### Team Name: LDI HACKOS
+### Team Members:
 1. Tharun R
 2. Tharun Balaji R
 3. Sriram RS
@@ -27,7 +27,7 @@ By focusing on these key areas within the scope of the project, the aim is to de
 Top of Form
 
 
-OBJECTIVES:
+### OBJECTIVES:
 
 Based on the problem statement provided, the objectives for your blockchain project can be outlined as follows:
 1. Enhance Traceability: Develop a blockchain-based solution to improve traceability throughout the global supply chain, enabling stakeholders to track the movement of goods from their origin to the end consumer in a transparent and immutable manner.
@@ -50,9 +50,11 @@ Based on the problem statement provided, the objectives for your blockchain proj
 
 10. Scale and Expand: Develop a scalable and adaptable blockchain platform that can be expanded to other industries and supply chains beyond the initial scope, maximizing the impact of transparency and traceability initiatives on a global scale.
 
+### ARCHITECTURE:
 
+![image](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/31aaa93b-79a8-42fd-a4db-e2a54d2ab678)
 
-FEATURES:
+### FEATURES:
  Immutable ledger for transparent tracking of supply chain transactions.
  Automated smart contracts ensuring compliance with ethical standards.
  Product authentication via blockchain for combating counterfeit goods.
@@ -65,9 +67,7 @@ FEATURES:
  Continuous evaluation of blockchain effectiveness for supply chain transparency.
 
 
-
-
-FUNCTIONAL REQUIREMENTS:
+### FUNCTIONAL REQUIREMENTS:
 1) DASHBOARD:
         ◦ Owners has the access to assign the blocks(unique IDs) of the blockchain initially so that we can prevent counterfeiting of products from other sources
         ◦ Acts as a source for entry of the data of journey of the product at various points of supply chain
@@ -104,64 +104,57 @@ QR Code Scan:
 This dual-layer authentication system, combining barcode and QR code scans, aims to revolutionize product verification, enhance customer trust, and contribute to a more secure and transparent marketplace.
 
 
+### PROTOTYPE:
+## 1. MAIN DASHBOARD :
 
-ARCHITECTURE:
+![image](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/e8d211a9-2bc6-4ab3-81c1-6403180220d0)
 
+![image](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/7ccc1b5d-d61c-4284-9dbb-8cde82b4aab0)
 
+![image](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/24023061-1949-419a-bc05-3c81cee113ad)
 
+![image](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/15e521be-7d1d-408f-b593-7868575d8d36)
 
+![image](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/a590643d-0320-43e1-bd58-6723002336cd)
 
+## 2. MOBILE APPLICATION :
 
+| QR Code Scanning | QR Code Results |
+|:---:|:----:|
+| ![image](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/96d23e59-c0e4-4180-9c3f-1b5fd851a76d) | ![image](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/5330c144-b0ec-48f2-bc3b-7f7b4b8668b9) |
 
+## 3. SPS IOT MODULE:
 
-
-
-
-
-PROTOTYPE:
-    1) MAIN DASHBOARD :
-
-    2) MOBILE APPLICATION :
-
-
-3.SPS IOT MODULE:
-
-
-
+![image](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/19ec9d8c-eab5-4db0-8064-e882977ac1dd)
 
 
-
-
-FUTURE SCOPE:
+### FUTURE SCOPE:
     • Globally, 85% of consumers are concerned about authenticity of products or goods they purchase (source). This could be solved by implementing transparent supply chain system.
     • Around $450 million, could be saved worldwide annually in India building resilient    supply chain network.
     • Major retail companies such as Walmart, Unilever, Nestle are believes Blockchain based supply chain network for food and shelf products distribution improves traceability (source)
-    •  On average 25% of medicine in pharmaceutical industry reaches in degraded state, due to improper monitoring (source). This could be solved by our solution, with tracing data from IoT devices and storing in blockchain network.
+    • On average 25% of medicine in pharmaceutical industry reaches in degraded state, due to improper monitoring (source). This could be solved by our solution, with tracing data from IoT devices and storing in blockchain network.
 
 
-TECH STACK:
-Desktop Application:
-    • Front End: React JS, CSS
+### TECH STACK:
+### Desktop Application:
+    • Front End: React JS, HTML, CSS
     • Back End: Web3 JS
 
-Blockchain Technology:
+### Blockchain Technology:
     • Ethereum
     • Truffle
     • Ganache
     • Solidity
 
-Mobile Application:
+### Mobile Application:
     • Front End: React Native
 
-IOT Setup:
+### IOT Setup:
     • Database: Firebase Realtime Database
     • Sensors: DHT11(Temperature  and Humidity Sensor)
     • Microcontroller: ESP32
 
 
-
-
-
-CONCLUSION:
+### CONCLUSION:
 In conclusion, the proposed project represents a holistic approach towards enhancing transparency, traceability, and sustainability within global supply chains through the implementation of blockchain technology. By leveraging blockchain's immutable ledger, the project aims to provide stakeholders with a secure and transparent record of transactions and product movements, enabling efficient tracking from source to destination. Additionally, prioritizing consumer empowerment through accessible information further strengthens transparency. Overall, the project holds significant potential to revolutionize supply chain management, fostering greater accountability and sustainability across industries.
 
