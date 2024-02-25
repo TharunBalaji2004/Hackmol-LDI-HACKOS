@@ -1,5 +1,4 @@
-
-![image](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/60566d48-0c22-470f-bed5-e31261317545)
+![traz_logo](https://github.com/TharunBalaji2004/Hackmol-LDI-HACKOS/assets/95350584/1981bc02-66ac-41dd-8a82-ea329bdfa5c3)
 
 ## Team Name: LDI HACKOS
 ## Team Members:
